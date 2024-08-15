@@ -3,7 +3,8 @@
 <h2>Projeto</h2>
 <a href="https://lanches-ashy.vercel.app/">Lanches</a>
 
-
+<br>
+<br>
 <p>O site usa html, css e javascript e node.js para fazer a apresentação dos lanches, mostras os lanches com desconto, e somar o valor dos lanches</p>
 
 
